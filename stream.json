@@ -2,7 +2,7 @@
   "streams": {
     "ipl": [
       {
-        "id": "ipl-eng",
+        "id": "ipl",
         "name": "IPL English",
         "link": "https://scoobyff.github.io/scoobycricket-willow1",
         "logo": "https://example.com/ipl-eng-logo.png"
