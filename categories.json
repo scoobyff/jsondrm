@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "id": "ipl",
+      "name": "IPL",
+      "logo": "https://example.com/ipl-logo.png",
+      "featured": true,
+      "order": 1
+    },
+    {
+      "id": "psl",
+      "name": "PSL",
+      "logo": "https://example.com/psl-logo.png",
+      "featured": true,
+      "order": 2
+    },
+    {
+      "id": "f1",
+      "name": "Formula 1",
+      "logo": "https://example.com/f1-logo.png",
+      "featured": false,
+      "order": 3
+    }
+  ]
+}
