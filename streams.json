@@ -1,0 +1,41 @@
+{
+  "streams": {
+    "ipl": [
+      {
+        "id": "ipl",
+        "name": "IPL English",
+        "link": "https://scoobyff.github.io/scoobycricket-willow1",
+        "logo": "https://example.com/ipl-eng-logo.png"
+      },
+      {
+        "id": "ipl-hindi",
+        "name": "IPL Hindi",
+        "link": "https://scoobyff.github.io/scoobycricket/hindi.html",
+        "logo": "https://example.com/ipl-hindi-logo.png"
+      }
+    ],
+    "psl": [
+      {
+        "id": "psl-willow",
+        "name": "PSL Willow",
+        "link": "https://scoobyff.github.io/scoobycricket-willow",
+        "logo": "https://example.com/psl-willow-logo.png"
+      },
+      {
+        "id": "psl-ten",
+        "name": "PSL Ten Cricket",
+        "link": "https://scoobyff.github.io/scoobycricket-tencricket/",
+        "logo": "https://example.com/psl-ten-logo.png"
+      }
+    ],
+    "f1": [
+      {
+        "id": "f1-espn",
+        "name": "F1 ESPN",
+        "link": "https://example.com/f1-espn-stream",
+        "logo": "https://example.com/f1-espn-logo.png"
+      }
+    ]
+  },
+  "telegramLink": "https://t.me/scoobystream"
+}
