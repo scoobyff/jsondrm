@@ -1,41 +1,126 @@
 {
-  "streams": {
-    "ipl": [
-      {
-        "id": "ipl",
-        "name": "IPL English",
-        "link": "https://scoobyff.github.io/scoobycricket-willow1",
-        "logo": "https://example.com/ipl-eng-logo.png"
-      },
-      {
-        "id": "ipl-hindi",
-        "name": "IPL Hindi",
-        "link": "https://scoobyff.github.io/scoobycricket/hindi.html",
-        "logo": "https://example.com/ipl-hindi-logo.png"
-      }
-    ],
-    "psl": [
-      {
-        "id": "psl-willow",
-        "name": "PSL Willow",
-        "link": "https://scoobyff.github.io/scoobycricket-willow",
-        "logo": "https://example.com/psl-willow-logo.png"
-      },
-      {
-        "id": "psl-ten",
-        "name": "PSL Ten Cricket",
-        "link": "https://scoobyff.github.io/scoobycricket-tencricket/",
-        "logo": "https://example.com/psl-ten-logo.png"
-      }
-    ],
-    "f1": [
-      {
-        "id": "f1-espn",
-        "name": "F1 ESPN",
-        "link": "https://example.com/f1-espn-stream",
-        "logo": "https://example.com/f1-espn-logo.png"
-      }
-    ]
-  },
-  "telegramLink": "https://t.me/scoobystream"
+  "streams": [
+    {
+      "id": "bein1",
+      "name": "BEIN SPORTS 1",
+      "category": "football",
+      "url": "https://scoobyff.github.io/scoobycricket-beinsports",
+      "isExternal": true,
+      "featured": true
+    },
+    {
+      "id": "tnt1",
+      "name": "TNT Sports 1",
+      "category": "football",
+      "url": "https://scoobyff.github.io/test/tnt1.html",
+      "isExternal": true
+    },
+    {
+      "id": "tnt2",
+      "name": "TNT Sports 2",
+      "category": "football",
+      "url": "https://scoobyff.github.io/test/tnt2.html",
+      "isExternal": true
+    },
+    {
+      "id": "tnt3",
+      "name": "TNT Sports 3",
+      "category": "football",
+      "url": "https://scoobyff.github.io/test/tnt3.html",
+      "isExternal": true
+    },
+    {
+      "id": "tnt4",
+      "name": "TNT Sports 4",
+      "category": "football",
+      "url": "https://scoobyff.github.io/test/tnt4.html",
+      "isExternal": true
+    },
+    {
+      "id": "iplenghindi",
+      "name": "IPL English & Hindi",
+      "category": "cricket",
+      "url": "https://scoobyff.github.io/scoobycricket/hindi.html",
+      "isExternal": true,
+      "featured": true
+    },
+    {
+      "id": "ipltelugu",
+      "name": "IPL Telugu",
+      "category": "cricket",
+      "url": "https://scoobyff.github.io/scoobycricket/ipltel",
+      "isExternal": true
+    },
+    {
+      "id": "skynzipl",
+      "name": "Sky NZ IPL",
+      "category": "cricket",
+      "url": "https://scoobyff.github.io/scoobycricket/skysportsnz.html",
+      "isExternal": true
+    },
+    {
+      "id": "willowipl",
+      "name": "Willow IPL",
+      "category": "cricket",
+      "url": "https://scoobyff.github.io/scoobycricket/willowipl1",
+      "isExternal": true
+    },
+    {
+      "id": "willowpsl",
+      "name": "Willow PSL",
+      "category": "cricket",
+      "url": "https://scoobyff.github.io/scoobycricket-willow",
+      "isExternal": true
+    },
+    {
+      "id": "tencricketpsl",
+      "name": "Ten Cricket PSL",
+      "category": "cricket",
+      "url": "https://scoobyff.github.io/scoobycricket-tencricket/",
+      "isExternal": true
+    },
+    {
+      "id": "astrocricket",
+      "name": "Astro Cricket",
+      "category": "cricket",
+      "url": "https://scoobyff.github.io/scoobycricket-astro/",
+      "isExternal": true
+    },
+    {
+      "id": "astrocricket2",
+      "name": "Astro Cricket 2",
+      "category": "cricket",
+      "url": "https://scoobyff.github.io/scoobycricket/astro",
+      "isExternal": true
+    },
+    {
+      "id": "psladfree",
+      "name": "PSL Ad Free/Fancode",
+      "category": "cricket",
+      "url": "https://scoobyff.github.io/scoobycricket-fancode/",
+      "isExternal": true
+    },
+    {
+      "id": "espntennis",
+      "name": "ESPN Tennis",
+      "category": "tennis",
+      "url": "https://example.com/tennis-stream",
+      "isExternal": true
+    },
+    {
+      "id": "nbatv",
+      "name": "NBA TV",
+      "category": "basketball",
+      "url": "https://example.com/nba-stream",
+      "isExternal": true,
+      "featured": true
+    },
+    {
+      "id": "skyf1",
+      "name": "Sky Sports F1",
+      "category": "formula1",
+      "url": "https://example.com/f1-stream",
+      "isExternal": true
+    }
+  ]
 }
