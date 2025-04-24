@@ -1,25 +1,34 @@
 {
   "categories": [
     {
-      "id": "ipl",
-      "name": "IPL",
-      "logo": "https://example.com/ipl-logo.png",
-      "featured": true,
-      "order": 1
+      "id": "cricket",
+      "name": "Cricket",
+      "icon": "🏏",
+      "description": "Live cricket streams from around the world"
     },
     {
-      "id": "psl",
-      "name": "PSL",
-      "logo": "https://example.com/psl-logo.png",
-      "featured": true,
-      "order": 2
+      "id": "football",
+      "name": "Football",
+      "icon": "⚽",
+      "description": "International football leagues and tournaments"
     },
     {
-      "id": "f1",
+      "id": "tennis",
+      "name": "Tennis",
+      "icon": "🎾",
+      "description": "Grand slams and major tennis tournaments"
+    },
+    {
+      "id": "basketball",
+      "name": "Basketball",
+      "icon": "🏀",
+      "description": "NBA and international basketball"
+    },
+    {
+      "id": "formula1",
       "name": "Formula 1",
-      "logo": "https://example.com/f1-logo.png",
-      "featured": false,
-      "order": 3
+      "icon": "🏎️",
+      "description": "F1 races, qualifying and practice sessions"
     }
   ]
 }
