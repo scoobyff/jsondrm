@@ -20,7 +20,7 @@
     },
     {
       "name": "ETV PLUS HD",
-      "url": "",
+      "url": "https://d27tnkf60df3v4.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_PLUS_H264-3_cloud_in/index.m3u8",
       "logo": "",
       "category": "Entertainment"
     },
@@ -32,25 +32,25 @@
     },
     {
       "name": "ETV LIFE HD",
-      "url": "",
+      "url": "https://d1wo3qx3gqdz3v.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_LIFE_H264-3_cloud_in/index.m3u8",
       "logo": "",
       "category": "Lifestyle"
     },
     {
       "name": "ETV ABHIRUCHI HD",
-      "url": "",
+      "url": "https://d2tbworamivdmb.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264-3_cloud-in/index.m3u8",
       "logo": "",
       "category": "Cooking"
     },
     {
       "name": "ETV TS HD",
-      "url": "",
+      "url": "https://dssp63pjfajz9.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_TS_H264-3_cloud_in/index.m3u8",
       "logo": "",
       "category": "Regional"
     },
     {
       "name": "ETV AP HD",
-      "url": "",
+      "url": "https://d14vo2b97spizt.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264-3_cloud_in/index.m3u8",
       "logo": "",
       "category": "Regional"
     }
