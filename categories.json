@@ -1,34 +1,5 @@
-{
-  "categories": [
-    {
-      "id": "cricket",
-      "name": "Cricket",
-      "icon": "🏏",
-      "description": "Live cricket streams from around the world"
-    },
-    {
-      "id": "football",
-      "name": "Football",
-      "icon": "⚽",
-      "description": "International football leagues and tournaments"
-    },
-    {
-      "id": "tennis",
-      "name": "Tennis",
-      "icon": "🎾",
-      "description": "Grand slams and major tennis tournaments"
-    },
-    {
-      "id": "basketball",
-      "name": "Basketball",
-      "icon": "🏀",
-      "description": "NBA and international basketball"
-    },
-    {
-      "id": "formula1",
-      "name": "Formula 1",
-      "icon": "🏎️",
-      "description": "F1 races, qualifying and practice sessions"
-    }
-  ]
-}
+[
+    { "id": "football", "name": "Football" },
+    { "id": "cricket", "name": "Cricket" },
+    { "id": "basketball", "name": "Basketball" }
+]
