@@ -1,126 +1,33 @@
 {
-  "streams": [
-    {
-      "id": "bein1",
-      "name": "BEIN SPORTS 1",
-      "category": "football",
-      "url": "https://scoobyff.github.io/scoobycricket-beinsports",
-      "isExternal": true,
-      "featured": true
-    },
-    {
-      "id": "tnt1",
-      "name": "TNT Sports 1",
-      "category": "football",
-      "url": "https://scoobyff.github.io/test/tnt1.html",
-      "isExternal": true
-    },
-    {
-      "id": "tnt2",
-      "name": "TNT Sports 2",
-      "category": "football",
-      "url": "https://scoobyff.github.io/test/tnt2.html",
-      "isExternal": true
-    },
-    {
-      "id": "tnt3",
-      "name": "TNT Sports 3",
-      "category": "football",
-      "url": "https://scoobyff.github.io/test/tnt3.html",
-      "isExternal": true
-    },
-    {
-      "id": "tnt4",
-      "name": "TNT Sports 4",
-      "category": "football",
-      "url": "https://scoobyff.github.io/test/tnt4.html",
-      "isExternal": true
-    },
-    {
-      "id": "iplenghindi",
-      "name": "IPL English & Hindi",
-      "category": "cricket",
-      "url": "https://scoobyff.github.io/scoobycricket/hindi.html",
-      "isExternal": true,
-      "featured": true
-    },
-    {
-      "id": "ipltelugu",
-      "name": "IPL Telugu",
-      "category": "cricket",
-      "url": "https://scoobyff.github.io/scoobycricket/ipltel",
-      "isExternal": true
-    },
-    {
-      "id": "skynzipl",
-      "name": "Sky NZ IPL",
-      "category": "cricket",
-      "url": "https://scoobyff.github.io/scoobycricket/skysportsnz.html",
-      "isExternal": true
-    },
-    {
-      "id": "willowipl",
-      "name": "Willow IPL",
-      "category": "cricket",
-      "url": "https://scoobyff.github.io/scoobycricket/willowipl1",
-      "isExternal": true
-    },
-    {
-      "id": "willowpsl",
-      "name": "Willow PSL",
-      "category": "cricket",
-      "url": "https://scoobyff.github.io/scoobycricket-willow",
-      "isExternal": true
-    },
-    {
-      "id": "tencricketpsl",
-      "name": "Ten Cricket PSL",
-      "category": "cricket",
-      "url": "https://scoobyff.github.io/scoobycricket-tencricket/",
-      "isExternal": true
-    },
-    {
-      "id": "astrocricket",
-      "name": "Astro Cricket",
-      "category": "cricket",
-      "url": "https://scoobyff.github.io/scoobycricket-astro/",
-      "isExternal": true
-    },
-    {
-      "id": "astrocricket2",
-      "name": "Astro Cricket 2",
-      "category": "cricket",
-      "url": "https://scoobyff.github.io/scoobycricket/astro",
-      "isExternal": true
-    },
-    {
-      "id": "psladfree",
-      "name": "PSL Ad Free/Fancode",
-      "category": "cricket",
-      "url": "https://scoobyff.github.io/scoobycricket-fancode/",
-      "isExternal": true
-    },
-    {
-      "id": "espntennis",
-      "name": "ESPN Tennis",
-      "category": "tennis",
-      "url": "https://example.com/tennis-stream",
-      "isExternal": true
-    },
-    {
-      "id": "nbatv",
-      "name": "NBA TV",
-      "category": "basketball",
-      "url": "https://example.com/nba-stream",
-      "isExternal": true,
-      "featured": true
-    },
-    {
-      "id": "skyf1",
-      "name": "Sky Sports F1",
-      "category": "formula1",
-      "url": "https://example.com/f1-stream",
-      "isExternal": true
-    }
-  ]
+    "football": [
+        {
+            "name": "Premier League",
+            "link": "https://yourdomain.com/streams/epl.html",
+            "image": "https://i.postimg.cc/Kv8zXgbv/football.jpg"
+        },
+        {
+            "name": "La Liga",
+            "link": "https://yourdomain.com/streams/laliga.html",
+            "image": "https://i.postimg.cc/Kv8zXgbv/football.jpg"
+        }
+    ],
+    "cricket": [
+        {
+            "name": "IPL 2025",
+            "link": "https://yourdomain.com/streams/ipl.html",
+            "image": "https://i.postimg.cc/ZRk7nF0r/cricket.jpg"
+        },
+        {
+            "name": "PSL 2025",
+            "link": "https://yourdomain.com/streams/psl.html",
+            "image": "https://i.postimg.cc/ZRk7nF0r/cricket.jpg"
+        }
+    ],
+    "basketball": [
+        {
+            "name": "NBA Finals",
+            "link": "https://yourdomain.com/streams/nba.html",
+            "image": "https://i.postimg.cc/g2ZrP0hc/basketball.jpg"
+        }
+    ]
 }
