@@ -1,9 +1,9 @@
 {
-  "streamUrl": "https://ABGQJFUAAAAAAAAMMTH6KPCFZQM2F.eaa294742c5a47b4868b06a53895eebf.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ivgvmzdlem/out/v1/2f808221f34945d4b1682712e13b5426/cenc.mpd",
+  "streamUrl": "https://ABGQJFUAAAAAAAAMA5N4RIEZ6TMGP.1922add0dd5e4ddebc3ecbddef93ec9a.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xhiwabwyru/out/v1/6b12b1bff5564c0a82eee05aceb44c39/cenc.mpd",
   "posterImage": "https://i.postimg.cc/9rP5VPR3/Copy-of-Contact-For-Ad-s-20250419-162517-0001.png",
   "telegramUrl": "https://t.me/+o3xpHLNH5nNkOTJl",
   "drm": {
-  "keyId":"4811508a9b3e58f52a57c70e2aa0a874",
-    "key": "c70b165bbd30038116ddd28ef07966a8"
+  "keyId":"75bba1d349a469c8c86ed0f75fdf9c00",
+    "key": "b136d005e0633ad41ebe056ac334295b"
   }
 }
