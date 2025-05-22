@@ -2,24 +2,39 @@
   "matches": [
     {
       "contentId": "1001",
-      "event_name": "ENG v ZIM",
+      "event_name": "India vs Australia - 1st ODI",
       "video_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
-      "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+      "dai_url": "",
       "pub_url": ""
     },
     {
       "contentId": "1002", 
-      "event_name": "Live Cricket Match 2",
-      "video_url": "https://example.com/stream2.m3u8",
+      "event_name": "England vs New Zealand - Test Match",
+      "video_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2013750/DAI/master.m3u8",
+      "dai_url": "",
+      "pub_url": ""
+    },
+    {
+      "contentId": "1003",
+      "event_name": "Pakistan vs South Africa - T20I",
+      "video_url": "",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2013751/DAI/master.m3u8",
+      "pub_url": ""
+    },
+    {
+      "contentId": "1004",
+      "event_name": "Bangladesh vs Sri Lanka - ODI",
+      "video_url": "",
+      "dai_url": "",
+      "pub_url": "https://sonypartnersdaimenew.akamaized.net/hls/live/2013752/DAI/master.m3u8"
+    },
+    {
+      "contentId": "1005",
+      "event_name": "IPL 2024 - Match 1",
+      "video_url": "https://example-stream.m3u8",
       "dai_url": "",
       "pub_url": ""
     }
   ],
-  "streamUrl": "https://example.com/live-stream.m3u8",
-  "posterImage": "https://mma.prnewswire.com/media/1919551/WillowTV_Logo.jpg?p=facebook",
-  "drm": {
-    "keyId": "your-key-id-here",
-    "key": "your-key-here"
-  },
   "telegramUrl": "https://t.me/+P6IPpHAJ-oZjNDY1"
 }
