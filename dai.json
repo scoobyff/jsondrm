@@ -1,0 +1,25 @@
+{
+  "matches": [
+    {
+      "contentId": "1001",
+      "event_name": "ENG v ZIM",
+      "video_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+      "dai_url": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+      "pub_url": ""
+    },
+    {
+      "contentId": "1002", 
+      "event_name": "Live Cricket Match 2",
+      "video_url": "https://example.com/stream2.m3u8",
+      "dai_url": "",
+      "pub_url": ""
+    }
+  ],
+  "streamUrl": "https://example.com/live-stream.m3u8",
+  "posterImage": "https://mma.prnewswire.com/media/1919551/WillowTV_Logo.jpg?p=facebook",
+  "drm": {
+    "keyId": "your-key-id-here",
+    "key": "your-key-here"
+  },
+  "telegramUrl": "https://t.me/+P6IPpHAJ-oZjNDY1"
+}
