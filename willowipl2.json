@@ -1,9 +1,9 @@
 {
-  "streamUrl": "https://ABGQJFUAAAAAAAAMKRC6UKXKCD7O6.852f95789e27466f973242bf37b4178d.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2ppvpr099z/out/v1/8e4142c6df6e442c94feba54c3887da0/cenc.mpd",
+  "streamUrl": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/zoagvtvsex/out/v1/f32f1435d7164490b42604f768e77abd/cenc.mpd",
   "posterImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.50d96f50-57d4-4f92-afdf-9091252ed4ff/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
   "telegramUrl": "https://t.me/+o3xpHLNH5nNkOTJl",
   "drm": {
-    "keyId": "cb0149c4ee5c9f50c82d4cffc9551044",
-    "key": "0472ea0f977e324e07a820ff7e1f5a1e"
+    "keyId": "ea0b6450977961c075695c1553fb50f9",
+    "key": "108ba42caf6eaf23ae4d517966661f09"
   }
 }
