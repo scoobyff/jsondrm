@@ -1,0 +1,9 @@
+{
+  "streamUrl": "https://la.drmlive.net/tp/sling-22.mpd",
+  "posterImage": "http://p-img.movetv.com/cms/images/b7c5841c82ec21c38cd43815c7c49791ae3bcc56.png",
+  "drm": {
+    "clearkey": {
+      "licenseUrl": "https://la.drmlive.net/tp/sling_ck?id=22"
+    }
+  }
+}
