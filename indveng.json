@@ -1,0 +1,28 @@
+{
+  "title": "INDIA TOUR OF ENGLAND",
+  "streamUrl": "https://bcovlive-a.akamaihd.net/b238876e5f004ec29d4e07066a044996/eu-west-1/4854911276001/playlist.m3u8",
+  "posterImage": "",
+  "autostart": true,
+  "mute": false,
+  "telegramUrl": "https://t.me/+o3xpHLNH5nNkOTJl",
+  "qualities": [
+    {
+      "file": "",
+      "label": "1080p FHD"
+    },
+    {
+      "file": "",
+      "label": "720p HD"
+    },
+    {
+      "file": "",
+      "label": "540p"
+    },
+    {
+      "file": "",
+      "label": "360p"
+    }
+  ],
+  "description": "IND A vs ENGLAND LIONS ",
+  "lastUpdated": "2025-05-30T10:30:00Z"
+}
