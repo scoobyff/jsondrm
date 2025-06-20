@@ -1,9 +1,9 @@
 {
-  "streamUrl": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychanneltamil2/default/manifest.mpd",
-  "posterImage": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.50d96f50-57d4-4f92-afdf-9091252ed4ff/1/BOXART-16X9/en-US._UY222_BG0,0,0_FP_.jpeg",
+  "streamUrl": https://airtel.fredflix.fun/api/f584ca61d4fe37167b2ab11bac350381.mpd",
+  "posterImage": "",
   "telegramUrl": "https://t.me/+o3xpHLNH5nNkOTJl",
   "drm": {
-    "keyId": "2990543fc1cc47c48cc384ea5597e78a",
-    "key": "b70a8cf9450c4d6484b4ac4d3c6761c0"
+    "keyId": "aa0cc480a31637bca87bced5a3ce3c75",
+    "key": "fe20e478d71d67c248c67837b4692118"
   }
 }
