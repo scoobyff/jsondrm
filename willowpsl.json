@@ -1,9 +1,9 @@
 {
-  "streamUrl": "",
+  "streamUrl": "https://airtel.fredflix.fun/api/7447ae56210684e65b742f0ad6ea5bde.mpd",
   "posterImage": "https://i.postimg.cc/9rP5VPR3/Copy-of-Contact-For-Ad-s-20250419-162517-0001.png",
   "telegramUrl": "https://t.me/+o3xpHLNH5nNkOTJl",
   "drm": {
-    "keyId": "",
-    "key": ""
+    "keyId": "9daff0561ac43417ad3e75b89b08ee34",
+    "key": "c2c5a0291dbc525b5274a6c7d3ca9a18"
   }
 }
