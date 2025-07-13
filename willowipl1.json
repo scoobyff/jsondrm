@@ -1,9 +1,9 @@
 {
-  "streamUrl": "https://airtel.fredflix.fun/api/584b08998cdf66065d15e022fa99bf4a.mpd",
+  "streamUrl": "https://sundirectgo-live.pc.cdn.bitgravity.com/hd38/dth.mpd",
   "posterImage": "https://i.postimg.cc/9rP5VPR3/Copy-of-Contact-For-Ad-s-20250419-162517-0001.png",
   "telegramUrl": "https://t.me/+o3xpHLNH5nNkOTJl",
   "drm": {
-  "keyId":"ec2d298cc5943dbfb2fd1b75d54c4c9a",
-    "key": "bb2c99d764f17b708e7cdd5878535b4e"
+  "keyId":"5e833f4019554aa394ff6de2eb19bf78",
+    "key": "f60e08a145804890492f315b61789ac5"
   }
 }
