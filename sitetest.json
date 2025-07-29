@@ -1,39 +1,94 @@
 {
-  "matches": [
-    {
-      "name": "Match 1",
-      "url": "https://your-stream-link-1.com"
-    },
-    {
-      "name": "Match 2", 
-      "url": "https://your-stream-link-2.com"
-    }
-  ],
   "channels": [
     {
       "name": "WILLOW SPORTS 24*7",
-      "logo": "https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/38_275.png",
-      "url": "https://scoobysports.vercel.app/player/fancode1"
+      "category": "Cricket Streams",
+      "logo": "https://i.postimg.cc/example/willow-logo.png",
+      "url": "https://scoobyff.github.io/scoobycricket-willow"
     },
     {
       "name": "TEN CRICKET",
-      "logo": "https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/17_271.png", 
-      "url": "https://scoobysports.vercel.app/player/fancode2"
+      "category": "Cricket Streams", 
+      "logo": "https://i.postimg.cc/example/ten-cricket-logo.png",
+      "url": "https://scoobyff.github.io/scoobycricket-tencricket/"
     },
     {
       "name": "ASTRO CRICKET",
-      "logo": "https://your-logo-url.com/astro.png",
-      "url": "https://your-stream-link.com"
+      "category": "Cricket Streams",
+      "logo": "https://i.postimg.cc/example/astro-logo.png", 
+      "url": "https://scoobyff.github.io/scoobycricket/astro"
     },
     {
-      "name": "FANCODE 24/7 1",
-      "logo": "https://your-logo-url.com/fancode1.png",
-      "url": "https://your-stream-link.com"
+      "name": "FANCODE 24/7",
+      "category": "Cricket Streams",
+      "logo": "https://i.postimg.cc/example/fancode-logo.png",
+      "url": "https://scoobyff.github.io/scoobycricket-fancode/"
     },
     {
-      "name": "FANCODE 24/7 2",
-      "logo": "https://your-logo-url.com/fancode2.png",
-      "url": "https://your-stream-link.com"
+      "name": "WILLOW ENG",
+      "category": "Anderson-Tendulkar Trophy, England 2025",
+      "logo": "https://i.postimg.cc/example/willow-eng-logo.png",
+      "url": "https://scoobyff.github.io/scoobycricket-willow1"
+    },
+    {
+      "name": "ASTRO CRICKET VPN SG",
+      "category": "Anderson-Tendulkar Trophy, England 2025", 
+      "logo": "https://i.postimg.cc/example/astro-sg-logo.png",
+      "url": "https://scoobyff.github.io/scoobycricket/astro"
+    },
+    {
+      "name": "Sony Ten 5 HD",
+      "category": "Anderson-Tendulkar Trophy, England 2025",
+      "logo": "https://i.postimg.cc/example/sony-ten5-logo.png",
+      "url": "https://scoobyff.github.io/scoobycricket/willowipl1"
+    },
+    {
+      "name": "FANCODE WEB",
+      "category": "FANCODE WEB ALL MATCHES",
+      "logo": "https://i.postimg.cc/example/fancode-web-logo.png", 
+      "url": "https://scooby.great-site.net/fancode/"
+    },
+    {
+      "name": "INDIA A v INDIA",
+      "category": "INDIA A TOUR OF ENGLAND 2025",
+      "logo": "https://i.postimg.cc/example/india-logo.png",
+      "url": "https://scoobyff.github.io/scoobycricket/indveng.html"
+    },
+    {
+      "name": "F1 ENG",
+      "category": "FORMULA 1 STREAMS",
+      "logo": "https://i.postimg.cc/example/f1-logo.png",
+      "url": "https://scoobyff.github.io/scoobycricket/sports2"
+    },
+    {
+      "name": "BEIN SPORTS 1",
+      "category": "FOOTBALL STREAMS",
+      "logo": "https://i.postimg.cc/example/bein-logo.png",
+      "url": "https://scoobyff.github.io/scoobycricket-beinsports"
+    },
+    {
+      "name": "TNT 1",
+      "category": "FOOTBALL STREAMS",
+      "logo": "https://i.postimg.cc/example/tnt1-logo.png", 
+      "url": "https://scoobyff.github.io/test/tnt1.html"
+    },
+    {
+      "name": "TNT 2", 
+      "category": "FOOTBALL STREAMS",
+      "logo": "https://i.postimg.cc/example/tnt2-logo.png",
+      "url": "https://scoobyff.github.io/test/tnt2.html"
+    },
+    {
+      "name": "TNT 3",
+      "category": "FOOTBALL STREAMS", 
+      "logo": "https://i.postimg.cc/example/tnt3-logo.png",
+      "url": "https://scoobyff.github.io/test/tnt3.html"
+    },
+    {
+      "name": "TNT 4",
+      "category": "FOOTBALL STREAMS",
+      "logo": "https://i.postimg.cc/example/tnt4-logo.png",
+      "url": "https://scoobyff.github.io/test/tnt4.html"
     }
   ]
 }
