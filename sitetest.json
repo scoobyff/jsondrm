@@ -3,26 +3,32 @@
     {
       "name": "WILLOW SPORTS 24*7",
       "category": "Cricket Streams",
-      "logo": "https://i.postimg.cc/example/willow-logo.png",
-      "url": "https://scoobyff.github.io/scoobycricket-willow"
+      "logo": "http://p-img.movetv.com/1280x720/6cc66eec23429f8821491ce16bf5032c.png",
+      "url": "https://scoobysports.vercel.app/player/willowsports"
     },
     {
       "name": "TEN CRICKET",
       "category": "Cricket Streams", 
-      "logo": "https://i.postimg.cc/example/ten-cricket-logo.png",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCDD4QOvdXBL6w_G9IoNSuKmnhTZlaYQlQsrdKyzMuMLRp5ybG06gC6Lc&s=10",
       "url": "https://scoobyff.github.io/scoobycricket-tencricket/"
     },
     {
       "name": "ASTRO CRICKET",
       "category": "Cricket Streams",
-      "logo": "https://i.postimg.cc/example/astro-logo.png", 
+      "logo": "https://linear-poster.astro.com.my/prod/logo/AstroCricket_2024.png", 
       "url": "https://scoobyff.github.io/scoobycricket/astro"
     },
     {
-      "name": "FANCODE 24/7",
+      "name": "FANCODE 1",
       "category": "Cricket Streams",
-      "logo": "https://i.postimg.cc/example/fancode-logo.png",
-      "url": "https://scoobyff.github.io/scoobycricket-fancode/"
+      "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/FanCode1_White-Logo._AC_SL360_FMpng_.png",
+      "url": "https://scoobysports.vercel.app/player/fancode1"
+    },
+   {
+      "name": "FANCODE 2",
+      "category": "Cricket Streams",
+      "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/FanCode2_White-Logo._AC_SL360_FMpng_.png",
+      "url": "https://scoobysports.vercel.app/player/fancode2"
     }
   ]
 }
