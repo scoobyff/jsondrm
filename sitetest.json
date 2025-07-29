@@ -1,0 +1,39 @@
+{
+  "matches": [
+    {
+      "name": "Match 1",
+      "url": "https://your-stream-link-1.com"
+    },
+    {
+      "name": "Match 2", 
+      "url": "https://your-stream-link-2.com"
+    }
+  ],
+  "channels": [
+    {
+      "name": "WILLOW SPORTS 24*7",
+      "logo": "https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/38_275.png",
+      "url": "https://scoobysports.vercel.app/player/fancode1"
+    },
+    {
+      "name": "TEN CRICKET",
+      "logo": "https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/17_271.png", 
+      "url": "https://scoobysports.vercel.app/player/fancode2"
+    },
+    {
+      "name": "ASTRO CRICKET",
+      "logo": "https://your-logo-url.com/astro.png",
+      "url": "https://your-stream-link.com"
+    },
+    {
+      "name": "FANCODE 24/7 1",
+      "logo": "https://your-logo-url.com/fancode1.png",
+      "url": "https://your-stream-link.com"
+    },
+    {
+      "name": "FANCODE 24/7 2",
+      "logo": "https://your-logo-url.com/fancode2.png",
+      "url": "https://your-stream-link.com"
+    }
+  ]
+}
