@@ -110,80 +110,80 @@
 },
 {
   "name": "SpoTV 1",
-  "category": "",
+  "category": "https://linear-poster.astro.com.my/prod/logo/SPOTV.png",
   "logo": "",
   "url": "https://scoobysports.vercel.app/player/spotv1"
 },
 {
   "name": "SpoTV 2",
   "category": "",
-  "logo": "",
+  "logo": "https://linear-poster.astro.com.my/prod/logo/SPOTV2.png",
   "url": "https://scoobysports.vercel.app/player/spotv2"
 },
 {
   "name": "Astro Sports Plus",
   "category": "",
-  "logo": "",
+  "logo": "http://linear-poster.astro.com.my/prod/logo/AstroSportsPlus_2024.png",
   "url": "https://scoobysports.vercel.app/player/astrosportsplus"
 },
 {
   "name": "Bein 1 MY",
   "category": "",
-  "logo": "",
+  "logo": "http://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png",
   "url": "https://scoobysports.vercel.app/player/bein1my"
 },
 {
   "name": "Bein 2 MY",
   "category": "",
-  "logo": "",
+  "logo": "http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png",
   "url": "https://scoobysports.vercel.app/player/bein2my"
 },
 {
   "name": "Bein 3 MY",
-  "category": "",
+  "category": "http://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png",
   "logo": "",
   "url": "https://scoobysports.vercel.app/player/bein3my"
 },
 {
   "name": "Bein 4 MY",
   "category": "",
-  "logo": "",
+  "logo": "https://linear-poster.astro.com.my/prod/logo/beINSPORT4.png",
   "url": "https://scoobysports.vercel.app/player/bein4my"
 },
 {
   "name": "Bein 5 MY",
   "category": "",
-  "logo": "",
+  "logo": "https://linear-poster.astro.com.my/prod/logo/beINSPORT5.png",
   "url": "https://scoobysports.vercel.app/player/bein5my"
 },
 {
   "name": "Eurosport Astro",
   "category": "",
-  "logo": "",
+  "logo": "https://linear-poster.astro.com.my/prod/logo/logo_1701_v3.png",
   "url": "https://scoobysports.vercel.app/player/eurosportastro"
 },
 {
   "name": "Premier Sports Astro",
   "category": "",
-  "logo": "",
+  "logo": "https://linear-poster.astro.com.my/prod/logo/PremierSports.png",
   "url": "https://scoobysports.vercel.app/player/premiersportsastro"
 },
 {
   "name": "Astro Super Sports UHD",
   "category": "",
-  "logo": "",
+  "logo": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png",
   "url": "https://scoobysports.vercel.app/player/astrosupersportsuhd"
 },
 {
   "name": "Astro Super Sports Plus",
   "category": "",
-  "logo": "",
+  "logo": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/542_144.png",
   "url": "https://scoobysports.vercel.app/player/astrosupersportsplus"
 },
 {
   "name": "W-Sport",
   "category": "",
-  "logo": "",
+  "logo": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png",
   "url": "https://scoobysports.vercel.app/player/w-sport"
 }
   ]
