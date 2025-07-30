@@ -134,8 +134,8 @@
 },
 {
   "name": "Bein 3 MY",
-  "category": "http://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png",
-  "logo": "",
+  "category": "",
+  "logo": "http://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png",
   "url": "https://scoobysports.vercel.app/player/bein3my"
 },
 {
