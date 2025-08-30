@@ -1,9 +1,9 @@
 {
-  "streamUrl": "https://airtel.fredflix.fun/api/f584ca61d4fe37167b2ab11bac350381.mpd",
+  "streamUrl": "https://willowslingtv.vercel.app/22/20250830T000000Z/20250831T000000Z.mpd",
   "posterImage": "",
   "telegramUrl": "https://t.me/+o3xpHLNH5nNkOTJl",
   "drm": {
-    "keyId": "aa0cc480a31637bca87bced5a3ce3c75",
-    "key": "fe20e478d71d67c248c67837b4692118"
+    "keyId": "7ebf4e9f645a487e9475975089458c61",
+    "key": "43b751470166548077064a76e31deb77"
   }
 }
