@@ -1,9 +1,9 @@
 {
-  "streamUrl": "https://sundirectgo-live.pc.cdn.bitgravity.com/hd38/dth.mpd",
+  "streamUrl": "https://cors.jugorder.de/https://willowslingtv.vercel.app/22/20250830T000000Z/20250831T000000Z.mpd",
   "posterImage": "https://i.postimg.cc/9rP5VPR3/Copy-of-Contact-For-Ad-s-20250419-162517-0001.png",
   "telegramUrl": "https://t.me/+o3xpHLNH5nNkOTJl",
   "drm": {
-  "keyId":"5e833f4019554aa394ff6de2eb19bf78",
-    "key": "f60e08a145804890492f315b61789ac5"
+  "keyId":"7ebf4e9f645a487e9475975089458c61",
+    "key": "43b751470166548077064a76e31deb77"
   }
 }
